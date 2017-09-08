@@ -1,7 +1,7 @@
-##
-## Example usage: Assumes you have a csv called users.csv with all of the usernames in the first column
-## python add_collaborators.py --repo test_script --un jpusztay --apitoken XXXXXXXXXXXXXXXXXXXX --userNameList users.csv
-##
+###
+### Example usage: Assumes you have a csv called users.csv with all of the usernames in the first column
+### python add_collaborators.py --repo test_script --un jpusztay --apitoken XXXXXXXXXXXXXXXXXXXX --userNameList users.csv
+###
 
 from optparse import OptionParser
 import csv
